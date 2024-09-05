@@ -22,7 +22,7 @@ name = args.name
 excited = args.excited
 punct = "!"
 if excited:
-    punct = "!!!"
+    punct = "!!!!"
 
 
 print(f"Good {time}, {name}{punct}")
